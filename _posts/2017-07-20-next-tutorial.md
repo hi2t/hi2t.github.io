@@ -2,7 +2,7 @@
 title: Jenkins 安装
 description: Jenkins在linux环境的安装及简单使用
 categories:
- - tingting.zheng
+ - jenkins
 tags:
 ---
 
