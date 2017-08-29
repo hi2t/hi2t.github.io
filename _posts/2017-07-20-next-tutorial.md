@@ -1,8 +1,8 @@
 ---
-title: Next Theme Tutorial
-description: NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.
+title: Jenkins 安装
+description: Jenkins在linux环境的安装及简单使用
 categories:
- - tutorial
+ - tingting.zheng
 tags:
 ---
 
