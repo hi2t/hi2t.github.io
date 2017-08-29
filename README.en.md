@@ -9,7 +9,6 @@
 ## Screenshots
 
 * Desktop
-<!-- ![Desktop Preview](http://iissnan.com/nexus/next/desktop-preview.png) -->
 ![Desktop Preview](https://github.com/hi2t/hi2t.github.io/blob/master/Screenshots/Jenkins01.png?raw=true)
 
 * Sidebar
