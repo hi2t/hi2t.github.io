@@ -14,16 +14,17 @@ tags:
 
 ## Screenshots
 
-* Desktop
-![Desktop Preview](https://github.com/hi2t/hi2t.github.io/blob/master/Screenshots/Jenkins01.png?raw=true)
+* Jenkins首页
 
-* Sidebar
+![Desktop Preview](https://raw.githubusercontent.com/hi2t/hi2t.github.io/master/Screenshots/homepage.png?raw=true)
 
-![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-preview.png)
+* Jenkins设置页
 
-* Sidebar (Post details page)
+![Desktop Sidebar Preview](https://github.com/hi2t/hi2t.github.io/blob/master/Screenshots/settingpage.png?raw=true)
 
-![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-toc.png)
+* Jenkins新建Jobs (可复制job)
+
+![Desktop Sidebar Preview](https://github.com/hi2t/hi2t.github.io/blob/master/Screenshots/creatpage.png?raw=true)
 
 * Mobile
 
