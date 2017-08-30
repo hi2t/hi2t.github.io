@@ -9,15 +9,15 @@
 ## Screenshots
 
 * Desktop
-![Desktop Preview](https://raw.githubusercontent.com/hi2t/hi2t.github.io/master/Screenshots/homepage.png?raw=true)
+![Desktop Preview](https://github.com/hi2t/Blog.picture/blob/master/jenkins/homepage.png?raw=true)
 
 * Sidebar
 
-![Desktop Sidebar Preview](https://github.com/hi2t/hi2t.github.io/blob/master/Screenshots/settingpage.png?raw=true)
+![Desktop Sidebar Preview](https://github.com/hi2t/Blog.picture/blob/master/jenkins/settingpage.png?raw=true)
 
 * Sidebar (Post details page)
 
-![Desktop Sidebar Preview](https://github.com/hi2t/hi2t.github.io/blob/master/Screenshots/creatpage.png?raw=true)
+![Desktop Sidebar Preview](https://github.com/hi2t/Blog.picture/blob/master/jenkins/creatpage.png?raw=true)
 
 * Mobile
 
