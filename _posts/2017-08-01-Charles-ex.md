@@ -7,8 +7,7 @@ tags:
 
 Charles for mac 安装及破解.
 
-# 安装包
-[Charles4.02](https://github.com/hi2t/Blog.picture/blob/master/charles/Charles402.dmg?raw=true)
+# Normal block
 
 ```
 alert('Hello World!');
