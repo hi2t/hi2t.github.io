@@ -23,6 +23,9 @@
 
 ![Mobile Preview](http://iissnan.com/nexus/next/mobile.png)
 
+*Not yet
+![not yet](https://github.com/hi2t/Blog.picture/blob/master/mac/haven't.png?raw=true)
+
 
 ## Installation
 
