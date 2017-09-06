@@ -26,6 +26,12 @@
 *Not yet
 ![not yet](https://github.com/hi2t/Blog.picture/blob/master/mac/haven't.png?raw=true)
 
+*done
+![done](https://github.com/hi2t/Blog.picture/blob/master/mac/done.png?raw=true)
+
+*have
+![have](https://github.com/hi2t/Blog.picture/blob/master/mac/have.png?raw=true)
+
 
 ## Installation
 
