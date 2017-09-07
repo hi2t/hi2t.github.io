@@ -32,6 +32,18 @@
 *have
 ![have](https://github.com/hi2t/Blog.picture/blob/master/mac/have.png?raw=true)
 
+*wifi01
+![wifi01](https://github.com/hi2t/Blog.picture/blob/master/charles/wifi01.png?raw=true)
+
+*wifi02
+![wifi02](https://github.com/hi2t/Blog.picture/blob/master/charles/wifi02.png?raw=true)
+
+*wifi03
+![wifi03](https://github.com/hi2t/Blog.picture/blob/master/charles/wifi03.png?raw=true)
+
+*wifidone
+![wifidone](https://github.com/hi2t/Blog.picture/blob/master/charles/wifidone.png?raw=true)
+
 
 ## Installation
 
